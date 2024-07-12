@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Form with Database Connection</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    <h1>User Registration Form</h1>
+  
     
     <!-- HTML Form -->
     <form action="process.php" method="post">
