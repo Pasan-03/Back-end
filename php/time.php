@@ -8,6 +8,7 @@
 <body>
     <?php
         echo date('h:i:s A');
+        echo "ngiru";
         ?>
 </body>
 </html>
